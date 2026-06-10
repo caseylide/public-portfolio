@@ -6,7 +6,7 @@ I've published **[caseylide-portfolio-products-overview.md](https://github.com/c
 
 ## Live Servers
 
-Listed herebelow are the four servers I currently manage.
+Listed herebelow are the four servers I currently manage. I'm excited to demo any product from my portfolio that piques your interest - please reach out to me at caseylide@gmail.com or 858-462-2942 to start the conversation!
 
 ### Flex AI Multiplat Ecosystem Server [(flex-platform-web)](https://github.com/caseylide/public-portfolio/tree/main/flex-platform-web)
 
