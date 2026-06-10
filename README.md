@@ -6,11 +6,11 @@ Thanks for visiting my public profile! I've published [caseylide-portfolio-produ
 
 Listed herebelow are the four servers I currently manage.
 
-### Flex AI Multiplat Ecosystem Server (flex-platform-web)
+### Flex AI Multiplat Ecosystem Server [(flex-platform-web)]()
 
 My most recent IaC server provisioning on the AWS platform and currently my most active server for deployments and application development.
 
-### Axialy AI Administration Server (axialy-production-admin)
+### Axialy AI Administration Server ](axialy-production-admin)](https://github.com/caseylide/public-portfolio/tree/main/axialy-production-admin)
 
 The Axialy AI Admin server hosts the admin dashboard that I use to montior and manage the live Axialy AI SaaS server remotely.
 
