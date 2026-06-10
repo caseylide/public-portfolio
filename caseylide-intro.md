@@ -6,7 +6,7 @@ Employers and potential employers usually want to answer a few practical questio
 
 The short answer is yes.
 
-My background spans enterprise healthcare, consulting, aerospace and defense SaaS, and solo applied-AI product execution. Over the course of my career, I have moved from systems and QA leadership into senior business analysis, product ownership, technical product management, consulting, and founder-led software delivery. That progression reflects a consistent pattern: I learn complex domains quickly, work effectively with stakeholders, and turn ambiguous business needs into working systems.
+My experience spans enterprise healthcare, consulting, aerospace and defense SaaS, and solo applied-AI product execution. Over the course of my career, I have moved from systems and QA leadership into senior business analysis, product ownership, technical product management, consulting, and founder-led software delivery. That progression reflects a consistent pattern: I learn complex domains quickly, work effectively with stakeholders, and turn ambiguous business needs into working systems.
 
 My background includes:
 
