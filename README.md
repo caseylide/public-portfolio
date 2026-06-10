@@ -2,11 +2,11 @@
 
 Thanks for visiting my public portfolio! For an overview of my professional background please continue to my **[personal intro](https://github.com/caseylide/public-portfolio/blob/main/caseylide-intro.md)**.
 
-I've published **[caseylide-portfolio-products-overview.md](https://github.com/caseylide/public-portfolio/blob/main/caseylide-portfolio-products-overview.md)** in this same GitHub repository so you can easily access any of the products and public utilities that I've published to the various web domains I manage. While some of the products are used internally and not available to the public, I'll be happy to provide a demo of any product in my portfolio, public or otherwise.
+I've published **[caseylide-portfolio-products-overview.md](https://github.com/caseylide/public-portfolio/blob/main/caseylide-portfolio-products-overview.md)** in this same GitHub repository so you can easily access any of the products and public utilities that I've published to the various web domains I manage. While some of the products are used internally and not available to the public, I'll be happy to provide a live demo of any product in my portfolio, public or otherwise.
 
 ## Live Servers
 
-Listed herebelow are the four servers I currently manage. I'm excited to demo any product from my portfolio that piques your interest - please reach out to me at caseylide@gmail.com or 858-462-2942 to start the conversation!
+Listed herebelow are the four servers I currently manage.
 
 ### Flex AI Multiplat Ecosystem Server [(flex-platform-web)](https://github.com/caseylide/public-portfolio/tree/main/flex-platform-web)
 
@@ -23,3 +23,7 @@ The Axialy AI production server hosts the Axialy UI web application that is offe
 ### Axiamax Legacy Shared Server [(p3plzcpnl503722)](https://github.com/caseylide/public-portfolio/tree/main/p3plzcpnl503722)
 
 My longest-running content server is hosted under a shared model on the GoDaddy platform. The shared hosting solution currently serves content for axiamax.com and axiaba.com websites and public resources.
+
+## Live Demo
+
+I'm excited to demo any product from my portfolio that piques your interest - please reach out to me at caseylide@gmail.com or 858-462-2942 to start the conversation!
