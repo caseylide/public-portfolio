@@ -1,0 +1,16 @@
+Have you worked in a startup or high-growth environment where you were expected to move quickly and operate cross-functionally? If so, for which company(s)?
+Yes. I joined Technossus during a period of significant growth as they transitioned from a small start-up to an established consulting firm.
+While remote, this role requires the candidate to be located in the PT or MT zones in the US. Where are you permanently located?
+Oceanside, CA - PT time zone.
+Are you in any of the following industries? If so, at which company(s)? If not, what industry have you worked in?: IoT / smart home / building systems Industrial automation / robotics Energy / utilities / climate tech Security systems / monitoring systems PropTech / construction tech with sensors or field systems
+My experience is in healthcare, aerospace, finance, defense, and technology.
+Have you personally led any AI, automation, or workflow optimization initiatives end-to-end? If yes, for which company(s)?
+Yes. I have developed many AI-powered solution under my own Axiamax LLC brand. You can my public portfolio products here - https://github.com/caseylide/public-portfolio
+Which AI tools, platforms, or frameworks have you directly configured or implemented yourself (not through vendors or teams), and what exactly did you build or deploy?
+I built the Axialy AI platform which is live in production at https://axialy.ai - I owned the complete lifecycle from product concept to design, development, and deployment. I have also built an internal tool named APRO to manage all of my love server contents across multiple infrastructure platforms.
+
+My public portfolio at https://github.com/caseylide/public-portfolio provides greater detail and access links to explore my products.
+What’s your approach to identifying and prioritizing AI opportunities within a non-technical operations team (e.g., sales, finance, or customer success)?
+Stakeholders of non-technical operations teams have needs within their unique operation context. I excel at understanding those needs contextually, identifying improvement opportunities, and defining the technology solutions and operational changes which deliver maximum value return to the business.
+How have you measured the success or ROI of an AI or automation initiative you’ve implemented? What metrics did you use and what was the outcome?
+Some key metrics in evaluating effectiveness of AI adoption include time measurements such as speed to market and task turnaround time. Also, in the current economically volatile AI landscape, cost tracking is essential.
