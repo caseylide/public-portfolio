@@ -2,7 +2,7 @@
 
 Dear Hiring Manager,
 
-I am writing to express my enthusiastic interest in the AI Transformation Lead position at Illumia. With a career spanning enterprise healthcare, aerospace and defense SaaS, and my own independent experience building AI-powered production systems, I have developed a unique perspective on the intersection of human-centric business strategy and technical execution. I am not looking for a caretaker role; I am looking to drive the operational engine that turns AI access into genuine organizational transformation.
+I am writing to express my interest in the AI Transformation Lead position at Illumia. With a career spanning enterprise healthcare, aerospace and defense SaaS, and my own independent experience building AI-powered production systems, I have a unique and still-evolving perspective about where AI is most useful, and where human inputs and check points are most essential. I can help to drive the operational engine that turns AI access into genuine organizational transformation.
 
 ### Why I am a strong fit for Illumia:
 
