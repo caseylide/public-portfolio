@@ -18,6 +18,6 @@ The Axialy AI Admin server hosts the admin dashboard that I use to montior and m
 
 The Axialy AI production server hosts the Axialy UI web application that is offered to the public under a SaaS model.
 
-### Axiamax Legacy Shared Server (p3plzcpnl503722)
+### Axiamax Legacy Shared Server [(p3plzcpnl503722)](https://github.com/caseylide/public-portfolio/tree/main/p3plzcpnl503722)
 
 My longest-running content server is hosted under a shared model on the GoDaddy platform. The shared hosting solution currently serves content for axiamax.com and axiaba.com websites and public resources.
