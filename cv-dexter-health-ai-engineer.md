@@ -150,7 +150,7 @@ Scottsdale Community College — 2006
 
 ## Military Service
 
-**United States Navy — E-5, Machinists Mate - Nuclear**  
+**United States Navy — Machinists Mate - Nuclear**  
 March 1995 - July 1999
 
 Advanced technical training in nuclear physics, materials science, heat transfer, fluid dynamics, and reactor operations.
