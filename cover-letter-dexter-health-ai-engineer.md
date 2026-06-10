@@ -6,7 +6,7 @@ June 10, 2026
 
 Dear Dexter Health Hiring Team,
 
-I am excited to apply for the AI Engineer (LLM Products) role at dexter health. This opportunity stands out to me because it sits exactly at the intersection where I do my best work: turning ambiguous product ideas into production-ready AI features that are useful, reliable, measurable, and grounded in real operational workflows.
+I am excited to apply for the AI Engineer (LLM Products) role at dexter health. This opportunity stands out to me because it align perfectly with my current professional focus: turning ambiguous product ideas into production-ready AI features that are useful, reliable, measurable, and grounded in real operational workflows.
 
 My background combines three strengths that align closely with what you described:
 
@@ -32,7 +32,7 @@ I am also highly comfortable in the kind of high-agency environment you describe
 
 Dexter health’s mission resonates with me. Reducing administrative burden in healthcare is not abstract to me; I have spent years in healthcare environments where operational friction, documentation overhead, and workflow inefficiency create very real downstream costs. The chance to help care teams by building fast, reliable AI product features is exactly the kind of work I want to do.
 
-Thank you for your consideration. I would welcome the opportunity to discuss how my background in applied AI product delivery, healthcare software, and end-to-end systems ownership could help dexter health ship high-quality LLM-powered features quickly and responsibly.
+Thank you for your consideration. I welcome an opportunity to discuss how my background in applied AI product delivery, healthcare software, and end-to-end systems ownership could help dexter health ship high-quality LLM-powered features quickly and responsibly.
 
 Sincerely,
 
