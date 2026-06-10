@@ -1,0 +1,28 @@
+Dear Hiring Manager,
+
+I am excited to apply for this role. With 18 years of experience spanning product management, enterprise business analysis, process improvement, and applied AI, I offer a combination that is especially well suited to fast-moving, cross-functional environments: I can identify meaningful operational opportunities, translate them into practical software and workflow solutions, and stay hands-on through execution.
+
+My background aligns strongly with what you are seeking. I have led enterprise-scale initiatives at Optum and Technossus, and more recently, as Founder/CEO/CTO of Axiamax LLC, I have personally architected and deployed AI-powered products, internal automation systems, and cloud infrastructure. That work includes Axialy AI, a live production platform for business analysis and stakeholder collaboration, as well as APRO, an internal operational control plane I built to manage files, environments, deployments, and AI-assisted development workflows across AWS, GitHub, and remote servers.
+
+What distinguishes my experience is that I do not approach AI as a novelty. I approach it as an operational capability that must be tied to measurable business value, governance, usability, and adoption. I am comfortable working with non-technical teams to understand their context, identify friction points, prioritize the highest-value use cases, and define solutions that improve speed, quality, and cost efficiency without losing accountability.
+
+Across my career, I have consistently worked at the intersection of stakeholders, delivery teams, and technology:
+
+- At Optum, I served as Product Owner and Technical Product Manager for enterprise healthcare solutions, delivering 12 major releases with zero missed commitments across 16 consecutive Product Increments.
+- At Technossus, I led complex consulting engagements, managed distributed teams, and drove process improvement initiatives that improved efficiency by 30% and reduced operational costs by 15%.
+- At Axiamax, I have taken ideas from concept to live deployment myself, including product design, application architecture, AI workflow integration, infrastructure-as-code, CI/CD, and production operations.
+
+I am also permanently located in Oceanside, California, in the PT time zone, and I am very comfortable operating in remote, high-accountability environments.
+
+While my direct industry background is strongest in healthcare, aerospace, defense, finance, and technology, that has trained me to learn complex domains quickly and work effectively in regulated, detail-sensitive, and operationally demanding environments. I would bring that same adaptability, ownership, and structured problem-solving approach to your team.
+
+I would welcome the opportunity to contribute my experience in AI, automation, process improvement, and cross-functional product leadership to help your organization move quickly and deliver practical results.
+
+Thank you for your consideration.
+
+Sincerely,
+
+Casey Lide
+Oceanside, CA
+caseylide@gmail.com
+858-462-2942
