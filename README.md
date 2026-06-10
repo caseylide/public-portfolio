@@ -14,7 +14,7 @@ My most recent IaC server provisioning on the AWS platform and currently my most
 
 The Axialy AI Admin server hosts the admin dashboard that I use to montior and manage the live Axialy AI SaaS server remotely.
 
-### Axialy AI SaaS and Marketing Server (axialy-production-ui)
+### Axialy AI SaaS and Marketing Server [(axialy-production-ui)](https://github.com/caseylide/public-portfolio/tree/main/axialy-production-ui)
 
 The Axialy AI production server hosts the Axialy UI web application that is offered to the public under a SaaS model.
 
