@@ -22,9 +22,9 @@ My consulting and enterprise background complements that hands-on experience. At
 
 Your posting emphasizes the need to define and execute AI strategy at scale, identify opportunities for operational efficiency and revenue growth, lead cross-functional initiatives, build strong relationships with business leaders, and communicate impact to executive leadership and the board. Those are exactly the environments where I do my best work. I am comfortable moving between executive conversations, roadmap prioritization, process analysis, AI use-case framing, implementation planning, and delivery oversight. I can help business leaders move from “we should do something with AI” to a prioritized, measurable transformation portfolio that actually improves how the organization operates.
 
-I am also drawn to Zoom specifically because of the company’s scale, product reach, and central role in how modern organizations collaborate. AI transformation at Zoom is not just an internal efficiency play. It is an opportunity to shape how a leading enterprise platform improves decision-making, operations, and customer experience across the business. That is meaningful work, and it is the kind of challenge I would be energized to take on.
+I am also drawn to Zoom specifically because of the company’s scale, product reach, and central role in how modern organizations collaborate. AI transformation at Zoom is not just an internal efficiency play. It is an opportunity to shape how a leading enterprise platform improves decision-making, operations, and customer experience across the business. That's meaningful work, and the kind of challenge I want to take on.
 
-Thank you for your time and consideration. I would welcome the opportunity to discuss how my transformation leadership, AI implementation background, and business-value orientation could help Zoom accelerate enterprise-wide AI adoption with measurable impact.
+Thank you for your time and consideration. I welcome the opportunity to discuss how my transformation leadership, AI implementation background, and business-value orientation could help Zoom accelerate enterprise-wide AI adoption with measurable impact.
 
 Sincerely,
 
