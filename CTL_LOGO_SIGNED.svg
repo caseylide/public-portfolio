@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 650" width="100%" height="100%">
+  <!-- Background to make sure it's clear white -->
+  <rect width="600" height="650" fill="#ffffff" />
+  
+  <g fill="none" stroke="#111111" stroke-linejoin="miter" stroke-linecap="square">
+    <!-- Base Logo Geometry (12px Stroke) -->
+    <g stroke-width="12">
+      <!-- Letter C (Top Left) -->
+      <path d="M 310,50 L 100,50 L 100,310 L 310,310 L 310,195 L 205,195 L 205,125 L 310,125 Z" fill="#ffffff" />
+      
+      <!-- Letter L (Bottom) -->
+      <path d="M 205,310 L 205,580 L 435,580 L 435,490 L 310,490 L 310,310 Z" fill="#ffffff" />
+
+      <!-- Letter T (Right) -->
+      <path d="M 205,125 L 525,125 L 525,215 L 420,215 L 420,490 L 310,490 L 310,215 L 205,215 Z" fill="#ffffff" />
+    </g>
+
+    <!-- Continuous Cursive Script (4px Smooth Stroke) -->
+    <g stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <!-- One Continuous Pen Stroke for: Casey -> T -> Lide -->
+      <path d="M 345,110 
+               C 330,110 315,95 320,70 
+               C 325,48 348,50 348,70 
+               C 348,82 338,92 342,102 
+               C 345,108 355,108 360,95 
+               C 365,82 360,70 372,70 
+               C 380,70 382,90 388,102 
+               C 392,112 398,115 405,85 
+               C 410,65 412,45 425,20 
+               C 432,5 438,10 435,32 
+               C 430,65 425,98 420,115 
+               C 425,115 440,112 555,112" />
+               
+      <!-- Distinct Final Step: Dotting the 'i' in Lide -->
+      <circle cx="505" cy="85" r="2.5" fill="#111111" stroke="none" />
+    </g>
+  </g>
+</svg>
