@@ -1,0 +1,12 @@
+{
+  "openapi": "3.1.0",
+  "info": Object,
+  "servers": Array (1),
+  "security": Array (1),
+  "tags": Array (1),
+  "paths": Object,
+  "webhooks": Object,
+  "components": Object,
+  "x-oaiMeta": Object,
+  "x-openai-structured-output-limits": Object
+}
